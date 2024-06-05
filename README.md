@@ -3,7 +3,7 @@ This repository contains a project for detecting face masks in images using deep
 with_mask: Images of people wearing masks.
 without_mask: Images of people not wearing masks.
 
-# Features about the Model
+Features about the Model
 Model Architecture: Used Convolutional Neural Networks (CNNs) for feature extraction and classification.
 Techniques: Two different architectures were explored for the prediction task:
 Simple CNN Model: A custom-built CNN with multiple convolutional and pooling layers.
